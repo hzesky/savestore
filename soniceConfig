@@ -1,0 +1,91 @@
+{
+  "update": {
+    "title" : "",
+    "version" : "",
+    "info" : "",
+    "url" : "",
+    "visible" : false,
+    "cancelable" : true
+  },
+
+
+
+  "notice": {
+    "title" : "",
+    "version" : "",
+    "info" : "",
+    "time": 0,
+    "visible" : false
+  },
+
+
+
+  "noticeForHome": [
+    {
+      "tips": "搜一下，视界更精彩！",
+      "url": "about:blank"
+    }
+  ],
+
+
+
+  "subscribeManager": {
+    "update": "22.2.15",
+    "push": [
+      {
+        "name": "星辰订阅",
+        "link": "SonicePro://eyJuYW1lIjoi5pif6L6w6K6i6ZiFIiwiZGVmYXVsdCI6Imh0dHA6Ly9qc29ueXVuLnh5ei9hcGkvdjMvZmlsZS9nZXQvMjkyL2pzb24uanNvbj9zaWduPWdzcXp5VTFXZnJ4ZW5ac1ZyQVQzUU04SlJrNXI0NTV5MDB6X1lGLURIcU0lM0QlM0EwIiwic3BhcmUiOiJodHRwczovL3NoYXJld2guY2hhb3hpbmcuY29tLy9zaGFyZS8vMzIxYzY2NTEtNmQ4Yi00OTc4LWFiMDQtNzZiNTBhOTMwOThlP3Q9MyJ9"
+      }
+    ],
+    "forbid": [""],
+    "close": [""],
+    "open": [""],
+    "sort": [""]
+  },
+
+
+
+  "subscribes": [
+    {
+      "name": "星辰订阅",
+      "link": "SonicePro://eyJuYW1lIjoi5pif6L6w6K6i6ZiFIiwiZGVmYXVsdCI6Imh0dHA6Ly9qc29ueXVuLnh5ei9hcGkvdjMvZmlsZS9nZXQvMjkyL2pzb24uanNvbj9zaWduPWdzcXp5VTFXZnJ4ZW5ac1ZyQVQzUU04SlJrNXI0NTV5MDB6X1lGLURIcU0lM0QlM0EwIiwic3BhcmUiOiJodHRwczovL3NoYXJld2guY2hhb3hpbmcuY29tLy9zaGFyZS8vMzIxYzY2NTEtNmQ4Yi00OTc4LWFiMDQtNzZiNTBhOTMwOThlP3Q9MyJ9"
+    }
+  ],
+
+
+
+  "noJump": [
+    "v2.thefatherofsalmon.com",
+    "gmanager.php?openread="
+  ],
+
+
+
+  "shieldManager": {
+    "模板视频": {
+      "year": "2021",
+      "type": "电影"
+    }
+  },
+
+
+
+  "setting": {
+    "mtLEmpCEmKu=": "mtmYntmWAKL=mtmYntmZnp7=mtmYntmgnbL=mtmgAK7Vnpu=mtmgAK7VntC=mtmgApCHAKI=mtmgApCaAK7=",
+    "mtLEmpCEmtm=": "mtCYmpPamKf=mtCYmpmGAp7=",
+    "mtLEmpCEmtq=": "mtCYmpPZnpu=mtCYmpPZnbf=mtPHmbuantL=mt7Wnpfambu=",
+    "hldshzCshl0=": "hlPW7zL68Qe=",
+    "openSuggest": false
+  },
+
+
+
+  "adSwitch": {
+    "switch": false,
+    "splash": false,
+    "banner": false,
+    "insert": false,
+    "reward": false,
+    "information": false
+  }
+}
